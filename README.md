@@ -116,7 +116,6 @@ Spark dashboard
 ![spark _Dashboard](https://user-images.githubusercontent.com/22275506/143810802-86cc4af9-12d8-40bc-b339-6a70ff8b6d8c.JPG)
 
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143798425-ccc0713e-1a43-4af8-9d18-cb3c1cd5f453.png">
 
 
 
@@ -147,6 +146,19 @@ Sonar service and Ingress
 
 Sonar UI
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143801659-da0445c0-af8e-4e4f-b7f3-eaba0f7eb93d.png">
+
+Deploying the terminal application 
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143810952-748fd0ae-378e-46e8-b06a-6dfb7b36749b.png">
+
+Service and Ingress for terminal application 
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143810986-2ec75836-4a3c-4f3a-b2cb-367573dc1850.png">
+
+Webterminal application UI
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143811017-e425bcd6-bbc8-4e18-a8a7-a077daeb52c3.png">
+
 
 
 
