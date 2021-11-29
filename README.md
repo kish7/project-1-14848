@@ -1,5 +1,17 @@
 # project-1-14848
 
+Deploying Hadoop
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143803097-1b682d20-2e71-4bec-8b19-afa21c05d812.png">
+
+
+Hadoop Service and Ingress
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143803054-5bf7551d-90e2-48d6-a665-29155fb0673b.png">
+
+
+Hadoop UI 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143803008-0208c5ef-15ac-485f-9d7b-4f841b28e300.png">
+
+
 
 Deploying the Spark master and Spark worker Nodes
 
