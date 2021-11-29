@@ -34,5 +34,17 @@ Build a docker image with preconfigured password as 'kish' since token is needed
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143800447-54ae72ea-eccb-4cd7-97a2-435ebd48cd88.png">
 
+Deploying Sonarqube
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143801723-819a9ab5-69da-41d5-a234-70075d9cbf22.png">
+
+
+Sonar service and Ingress
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143801699-ac2b69df-b6fc-46d9-93c5-a94008ce4f2d.png">
+
+
+Sonar UI
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143801659-da0445c0-af8e-4e4f-b7f3-eaba0f7eb93d.png">
+
+
 
 
