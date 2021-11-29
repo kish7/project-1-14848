@@ -6,6 +6,8 @@ Video Demo : https://youtu.be/BQV_w6BtvsM
 
 Terminal Application Code Walkthrough : https://youtu.be/CVh0AsArjtI
 
+jupyter notebook walkthrough : https://youtu.be/PO-w1V65Ebk
+
 ## Installation
 The Project contains 4 components deployed independently controlled by a web-based terminal application.
 
