@@ -1,6 +1,59 @@
-# 14848 Project Option 1
-BIG Data Processing Toolbox
+# 14848 Project option 1
 
+Big data processing toolbox
+
+## Installation
+The Project contains 4 components deployed independently controlled by a web-based terminal application.
+
+* Apache Hadoop
+             
+* Apache Spark
+                  
+* Jupyter Notebook
+          
+* Sonarqube
+
+* Web-UI-based terminal application (Optional)
+
+ 
+
+Use docker pull to pull all the required docker images in the cloud shell.
+
+```bash
+docker pull kish7/jupyter
+docker pull kish7/sparkweb
+docker pull kish7/hadoopui
+docker pull kish7/jupyternote
+docker pull kish7/webtermapp
+```
+
+Tag and push the docker images to GCP container registry
+```bash
+docker tag kish7/jupyter gcr.io/project_ID/kish7/jupyter
+docker push gcr.io/project_ID/kish7/jupyter
+```
+
+```bash
+docker tag kish7/sparkweb gcr.io/project_ID/kish7/sparkweb
+docker push gcr.io/project_ID/kish7/sparkweb
+```
+
+```bash
+docker tag kish7/hadoopui gcr.io/project_ID/kish7/hadoopui
+docker push gcr.io/project_ID/kish7/hadoopui
+```
+
+```bash
+docker tag kish7/jupyternote gcr.io/project_ID/kish7/jupyternote
+docker push gcr.io/project_ID/kish7/jupyternote
+```
+
+```bash
+docker tag kish7/webtermapp gcr.io/project_ID/kish7/webtermapp
+docker push gcr.io/project_ID/kish7/webtermapp
+```
+
+## Deployment in GKE
 
 
 Deploying Hadoop
