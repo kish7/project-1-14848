@@ -1,0 +1,1 @@
+export let urls = {"HADOOP" : "localhost:8088"}
