@@ -113,6 +113,9 @@ Spark service and Ingress
 
 
 Spark dashboard
+![spark _Dashboard](https://user-images.githubusercontent.com/22275506/143810802-86cc4af9-12d8-40bc-b339-6a70ff8b6d8c.JPG)
+
+
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143798425-ccc0713e-1a43-4af8-9d18-cb3c1cd5f453.png">
 
 
