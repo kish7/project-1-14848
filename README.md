@@ -72,7 +72,9 @@ Hadoop UI
 
 
 Deploying the Spark master and Spark worker Nodes
+
 The Image used is based out of bitnami/spark
+
 The environment variables need to be set for the master and the worker nodes appropriately
 
 ENV Variables for master node
