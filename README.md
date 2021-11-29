@@ -9,6 +9,10 @@ Selecting the docker image and setting the environment variables for spark Maste
 Deployed successfully
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143798497-b0f8565a-ab3e-4e17-aa5b-c481cb6a1904.png">
 
+Spark service and Ingress
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143798564-70867327-c747-42aa-b733-9c12984aad73.png">
+
+
 
 Spark dashboard
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/22275506/143798425-ccc0713e-1a43-4af8-9d18-cb3c1cd5f453.png">
